@@ -1,12 +1,12 @@
 # Project Business Bank Churners - Data
 
-**Project Business Bank Churners - Data** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Project Business Bank Churners - Data** They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* The data is a bank Churners - The bank is disturbed with more and more customers leaving their credit card services.
+* The data is a bank Churners - The bank is disturbed with more and more customers leaving their credit card services. This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category.
 
 
 ## Business Requirements
